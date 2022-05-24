@@ -1,6 +1,6 @@
 (function () {
   const ex1 = document.getElementById('ex1_button')
-  const ex1c = document.getElementById('ex_content')
+  const ex1c = document.getElementById('ex1_content')
 
   ex1.addEventListener("click", function(){
       var data ="";
